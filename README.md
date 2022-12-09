@@ -1,5 +1,5 @@
-# PDE
-processing
+# PDE (Processing Development Environment) 
+J'ai l'honneur de vous présenter quelques codes de Processing, enjoy !
 
 # Les colonnes de l'univers
 Les colonnes de l'univers sont considérées comme des lieux de naissance des étoiles, où la matière diffuse se condense pour former des soleils et des planètes.
