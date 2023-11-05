@@ -1,5 +1,4 @@
 # PDE (Processing Development Environment) 
-J'ai l'honneur de vous présenter quelques codes de Processing, enjoy !
 
 # Les colonnes de l'univers
 
